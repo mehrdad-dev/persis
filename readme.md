@@ -8,14 +8,15 @@
 
 
 ## 📊 Dataset
-Will be avaiable after publishing.
-
 ![mehrdad mohammadian](assets/presis-some-samples.png)
 
 
 Avaiable Datasets:
 - The PFR
 - The PTI SEG
+
+# Send your request
+These datasets are available only for research purposes. So please fill out the below "google form" carefully.
 
 ## ⚙️ Architecture
 Will be avaiable after publishing.
