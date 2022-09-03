@@ -10,7 +10,7 @@
 ## 📊 Dataset
 Will be avaiable after publishing.
 
-<!-- ![mehrdad mohammadina](assets/presis-some-samples.png) -->
+![mehrdad mohammadina](assets/presis-some-samples.png)
 
 
 Avaiable Datasets:
