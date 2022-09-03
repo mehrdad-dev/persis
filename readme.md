@@ -14,8 +14,8 @@
 
 
 Avaiable Datasets:
-- The PFR
-- The PTI SEG
+- The Persian Font Recognition (PFR) 
+- The Persian Text Image Segmentation (PTI SEG) 
 
 ## 📬 Send your request
 These datasets are available only for research purposes. So please fill out the below "google form" carefully.
