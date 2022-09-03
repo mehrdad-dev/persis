@@ -7,7 +7,7 @@
 ```Mehrdad Mohammadian, Neda Maleki, Tobias Olsson, Fredrik Ahlgren, Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks ```
 
 
-## 📊 Dataset
+## 📊 Datasets
 ![mehrdad mohammadian](assets/presis-some-samples.png)
 
 
