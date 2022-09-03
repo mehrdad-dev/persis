@@ -4,7 +4,7 @@
 ## 📖 Paper
 **Accepted: 12th International Conference on Computer and Knowledge Engineering (ICCKE2022)**
 
-**Will be indedxed: IEEE Xplore**
+**Will be indexed in: IEEE Xplore**
 
 ```Mehrdad Mohammadian, Neda Maleki, Tobias Olsson, Fredrik Ahlgren, Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks ```
 
