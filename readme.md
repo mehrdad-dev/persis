@@ -4,7 +4,7 @@
 ## 📖 Paper
 **Accepted:** 12th International Conference on Computer and Knowledge Engineering (ICCKE2022)
 
-**Will be indexed in:** IEEE Xplore
+**Indexed in:** IEEE Xplore
 
 **Link:** 
 
