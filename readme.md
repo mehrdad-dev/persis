@@ -28,8 +28,7 @@ Segmentation part:
 ![mehrdad mohammadian](segmentation.jpg)
 
 Classification part:
-![mehrdad mohammadian](classification-1.jpg)
-
+<img src="https://raw.githubusercontent.com/mehrdad-dev/persis/main/classification-1.jpg" height="400">
 
 ## ✍️ Citation
 ```
