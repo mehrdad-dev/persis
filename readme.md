@@ -23,7 +23,13 @@ These datasets are available only for research purposes. So please fill out the 
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScyDsPJ9PUXrae6X6mlOxjnZw4xV03BEJhSPoThZkh5YsnwXw/viewform?usp=sf_link)
 
 ## ⚙️ Architecture
-Will be available after publishing.
+
+Segmentation part:
+![mehrdad mohammadian](assets/segmentation.jpg)
+
+Classification part:
+![mehrdad mohammadian](assets/classification-1.jpg)
+
 
 ## ✍️ Citation
 ```
