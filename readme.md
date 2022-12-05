@@ -6,7 +6,7 @@
 
 **Link:** https://ieeexplore.ieee.org/document/9960037
 
-```Mehrdad Mohammadian, Neda Maleki, Tobias Olsson, Fredrik Ahlgren, Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks ```
+**Authors:** Mehrdad Mohammadian, Neda Maleki, Tobias Olsson, Fredrik Ahlgren
 
 
 ## 📊 Datasets
