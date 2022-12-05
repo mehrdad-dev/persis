@@ -25,10 +25,10 @@ These datasets are available only for research purposes. So please fill out the 
 ## ⚙️ Architecture
 
 Segmentation part:
-![mehrdad mohammadian](assets/segmentation.jpg)
+![mehrdad mohammadian](segmentation.jpg)
 
 Classification part:
-![mehrdad mohammadian](assets/classification-1.jpg)
+![mehrdad mohammadian](classification-1.jpg)
 
 
 ## ✍️ Citation
