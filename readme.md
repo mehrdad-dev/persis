@@ -33,7 +33,16 @@ Classification part:
 
 ## ✍️ Citation
 ```
-@INPROCEEDINGS{9960037,  author={Mohammadian, Mehrdad and Maleki, Neda and Olsson, Tobias and Ahlgren, Fredrik},  booktitle={2022 12th International Conference on Computer and Knowledge Engineering (ICCKE)},   title={Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks},   year={2022},  volume={},  number={},  pages={196-204},  doi={10.1109/ICCKE57176.2022.9960037}}
+@INPROCEEDINGS{9960037,
+  author={Mohammadian, Mehrdad and Maleki, Neda and Olsson, Tobias and Ahlgren, Fredrik},
+  booktitle={2022 12th International Conference on Computer and Knowledge Engineering (ICCKE)},
+  title={Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks},
+  year={2022},
+  volume={},
+  number={},
+  pages={196-204},
+  doi={10.1109/ICCKE57176.2022.9960037}
+}
 ```
 
 ## 📧 Contact
