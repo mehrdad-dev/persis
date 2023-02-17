@@ -17,8 +17,8 @@ What happens if we see a suitable font for our design work but we do not know it
 
 
 Avaiable Datasets:
-- The Persian Font Recognition (PFR) 
-- The Persian Text Image Segmentation (PTI SEG) 
+- Persian Font Recognition (PFR) 
+- Persian Text Image Segmentation (PTI SEG) 
 
 ## 📬 Send your request
 These datasets are available only for research purposes. So please fill out the below "Google Form" carefully.
