@@ -25,14 +25,19 @@ These datasets are available only for research purpose. So please fill out the b
 
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScyDsPJ9PUXrae6X6mlOxjnZw4xV03BEJhSPoThZkh5YsnwXw/viewform?usp=sf_link)
 
-## ⚙️ Architecture
+ ## ⚙️ Architecture
+![mehrdad mohammadian](assets/2023-05-22_02-17.png)
 
-Segmentation part:
-![mehrdad mohammadian](segmentation.jpg)
 
-Classification part:
+## 📈 Results
 
-<img src="https://raw.githubusercontent.com/mehrdad-dev/persis/main/classification-1.jpg" height="400">
+![mehrdad mohammadian](assets/2023-05-22_02-07.png)
+
+![mehrdad mohammadian](assets/2023-05-22_02-08.png)
+
+![mehrdad mohammadian](assets/2023-05-22_02-08_1.png)
+
+![mehrdad mohammadian](assets/2023-05-22_02-08_2.png)
 
 ## ✍️ Citation
 ```
